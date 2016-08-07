@@ -11,6 +11,6 @@ namespace Lesson01
         static void Main(string[] args)
         {
             Console.WriteLine("prueba 1");
-        }
+        }|
     }
 }
